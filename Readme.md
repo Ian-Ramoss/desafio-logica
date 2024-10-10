@@ -1,7 +1,7 @@
-## Desafio 1
+# Desafio 1️⃣
 
 Instruções para entrega
-# 1️⃣ Desafio Classificador de nível de Herói
+# Classificador de nível de Herói
 
 **O Que deve ser utilizado**
 
@@ -29,10 +29,10 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 
-# Desafio 2
+# Desafio 2️⃣
 
 Instruções para entrega
- # 2️⃣ Calculadora de partidas Rankeadas
+ # Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
@@ -60,10 +60,10 @@ Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
 
-# Desafio 3
+# Desafio 3️⃣
 
 Instruções para entrega
-# 3️⃣ Escrevendo as classes de um Jogo
+# Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
